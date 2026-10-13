@@ -22,5 +22,16 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 let byDefaultNumber = 45;
 let stringByDefaultNumber = String(byDefaultNumber);
-console.log(stringByDefaultNumber)
-console.log(typeof stringByDefaultNumber)
+// console.log(stringByDefaultNumber)
+// console.log(typeof stringByDefaultNumber)
+
+//****************************operations********************** */
+
+let value = 45;
+let negValue = -value;
+// console.log(negValue);
+// console.log(true)
+
+let gameCounter = 100;
+gameCounter++
+console.log(gameCounter)
